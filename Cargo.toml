@@ -11,4 +11,4 @@ description = "miniquad based minimal imgui application wrapper"
 [dependencies]
 miniquad = { version = "=0.2.55" }
 glam = {version = "0.8", features = ["scalar-math"] }
-imgui = { version = "0.2.1" }
+imgui = { version = "0.4.0" }
